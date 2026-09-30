@@ -32,6 +32,7 @@ console.log (aumento (2000));
 function numeros() {
     return [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 }
+console.log(numeros());
 
 // Exercício 7
 function somarAteDez (valor1, valor2, valor3, valor4, valor5, valor6, valor7, valor8, valor9, valor10) {
